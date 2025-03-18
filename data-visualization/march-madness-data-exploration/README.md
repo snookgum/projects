@@ -19,7 +19,7 @@ You can interact with tool at https://seonukkim.shinyapps.io/final_project/
 - 2020 season data is omitted due to the effect of Covid-19, which cancelled the tournament.
 - cbb21.csv has data from 2021 Divison I Men's College Basketball season.
 
-### Data Preparation
+### Preparation
 - I merged cbb.csv and cbb21.csv data
 - I removed data for teams that were not officially invited into the tournament (top 64)
 
