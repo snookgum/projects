@@ -21,7 +21,7 @@ You can interact with tool at https://seonukkim.shinyapps.io/final_project/
 
 ### Preparation
 - I merged cbb.csv and cbb21.csv data
-- I removed data for teams that were not officially invited into the tournament (top 64)
+- I removed data for teams that were not officially invited to the tournament (top 64)
 
 ### Source
 - From https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset
