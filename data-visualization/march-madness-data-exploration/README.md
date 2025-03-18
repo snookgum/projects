@@ -1,6 +1,6 @@
 # March Madness Data Exploration
 
-March Madness Data Exploration is a Shiny App that helps users build their March Madness bracket by visualizing past March Madness tournament statistics.
+March Madness Data Exploration is a Shiny App visualization tool for past March Madness tournament statistics. It's intended to help you build your March Madness bracket.
 
 ## Usage
 
