@@ -8,6 +8,8 @@ March Madness Data Exploration is a Shiny App visualization tool for past March 
 
 You can view the tool at https://seonukkim.shinyapps.io/final_project/
 
+### Instructions
+
 ## Data
 
 ### Dataset
