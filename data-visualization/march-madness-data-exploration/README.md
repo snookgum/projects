@@ -1,6 +1,5 @@
 # March Madness Data Exploration
-
-March Madness Data Exploration is an interactive visualization tool for viewing past March Madness tournament statistics. It's intended to help you build your March Madness bracket.
+March Madness Data Exploration is an interactive visualization tool for viewing past Men's March Madness tournament statistics. It's intended to help you build your March Madness bracket.
 
 ## Technologies Used
 - R
@@ -9,13 +8,19 @@ March Madness Data Exploration is an interactive visualization tool for viewing 
 ## Usage
 
 ### Website
-
 You can interact with tool at https://seonukkim.shinyapps.io/final_project/
 
 ### Instructions
 
 ## Data
 
-### Dataset
+### Context
+- cbb.csv has data from the 2013-2019 Division I Men's Basketball seasons.
+- 2020 season data is omitted due to the effect of Covid-19, which cancelled the tournament.
+- cbb21.csv has data from 2021 Divison I Men's Basketball season.
+
+### Data Preparation
+- I merged cbb.csv and cbb21.csv data
+- I removed data for teams that were not officially invited into the tournament (top 64)
 
 ### Source
