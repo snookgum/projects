@@ -15,9 +15,9 @@ You can interact with tool at https://seonukkim.shinyapps.io/final_project/
 ## Data
 
 ### Context
-- cbb.csv has data from the 2013-2019 Division I Men's Basketball seasons.
+- cbb.csv has data from the 2013-2019 Division I Men's College Basketball seasons.
 - 2020 season data is omitted due to the effect of Covid-19, which cancelled the tournament.
-- cbb21.csv has data from 2021 Divison I Men's Basketball season.
+- cbb21.csv has data from 2021 Divison I Men's College Basketball season.
 
 ### Data Preparation
 - I merged cbb.csv and cbb21.csv data
