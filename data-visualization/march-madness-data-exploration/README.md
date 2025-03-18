@@ -4,7 +4,7 @@ March Madness Data Exploration is a Shiny App that helps users build their March
 
 ## Usage
 
-# Website
+### Website
 
 You can view the tool at https://seonukkim.shinyapps.io/final_project/
 
