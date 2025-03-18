@@ -24,3 +24,4 @@ You can interact with tool at https://seonukkim.shinyapps.io/final_project/
 - I removed data for teams that were not officially invited into the tournament (top 64)
 
 ### Source
+- From https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset, which was scraped and cleaned from https://barttorvik.com/trank.php#
